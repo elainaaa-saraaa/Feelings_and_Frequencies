@@ -10,13 +10,18 @@ The system extracts spectral features from speech, trains a Random Forest classi
 
 > Key Features
 1. Digital Signal Processing (DSP) Feature Extraction
+   
 a. Zero Crossing Rate (ZCR)
+
 b. Spectral Centroid
+
 c. Spectral Bandwidth
+
 d. Spectral Rolloff
+
 These features capture the energy, brightness, sharpness, and frequency spread of speech — all of which vary with emotion.
 
-2. Classical Machine Learning
+3. Classical Machine Learning
 a. Random Forest classifier
 b. Train/test split with stratification
 c. Classification report + accuracy metrics
