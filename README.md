@@ -68,6 +68,12 @@ You must download it manually due to licensing.
 
 Working on this project gave me a chance to bring together two things I genuinely enjoy: the structure and logic of signal processing, and the human side of emotion in speech. It was interesting to see how something as technical as spectral features could reveal something as personal and expressive as how someone feels. Building this system helped me understand speech not just as a waveform, but as a reflection of energy, tension, calmness, and personality. It also showed me how classical ML and DSP can still create meaningful, interpretable results without needing massive deep‑learning models. For me, this project sits at the intersection of engineering and human communication, and that’s what made it exciting to build.
 
+>Screenshots:
+
+<img width="873" height="633" alt="image" src="https://github.com/user-attachments/assets/fbcb0a18-b97e-460e-9b52-bc3693a33397" />
+
+<img width="757" height="480" alt="image" src="https://github.com/user-attachments/assets/8f017092-f721-47df-8523-f38cee89e2c6" />
+
 
 
 >Author
