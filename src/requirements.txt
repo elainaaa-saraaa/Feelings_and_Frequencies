@@ -1,0 +1,8 @@
+#You would require these libraries as prerequisites to run this program:
+
+numpy
+pandas
+librosa
+scikit-learn
+matplotlib
+seaborn
